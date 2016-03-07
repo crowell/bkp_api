@@ -1,0 +1,5 @@
+require_relative './task.rb'
+require_relative './team.rb'
+require_relative './solve.rb'
+require_relative './response.rb'
+require_relative './alert.rb'
